@@ -3,7 +3,7 @@
 ## 🧠 Skills & Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=python,js,cpp,c,java,c,cs)
+![Languages](https://skillicons.dev/icons?i=python,js,cpp,c,java,cs)
 
 ### Technologies
 ![Tech](https://skillicons.dev/icons?i=react,nodejs,flask,mongodb,docker,git,bash,mysql,nextjs)
